@@ -1,5 +1,5 @@
 # contact_form (Responsive)
-contact form created on our own for our website 
+contact form with our own designs. 
 
 Front end design of the contact form.
 
